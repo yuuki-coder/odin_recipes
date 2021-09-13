@@ -1,0 +1,22 @@
+body{
+    background-color: blue;
+}
+body h1{
+    color:red;
+    text-align: center;
+
+}
+ul li{
+    color:pink;
+}
+
+.class.a,.class.b,.class.c{
+    font-size:30px;
+}
+.class.a{color:ivory;}
+.class.b{color:lawngreen;}
+.class.c{color:lightseagreen;}
+img {
+    width: 1000px;
+}
+
